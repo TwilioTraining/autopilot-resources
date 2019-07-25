@@ -39,7 +39,7 @@ body .gist .pl-ms1 {
 body .gist .pl-c,
 body .gist .pl-c span,
 body .gist .pl-pdc {
-    color: #8c5bd8;
+    color: #94979B;
     font-style: italic;
 }
 body .gist .pl-c1,
@@ -73,7 +73,7 @@ body .gist .pl-mri,
 body .gist .pl-va,
 body .gist .pl-vpu,
 body .gist .highlight-text-tex .pl-s3 {
-    color: #008cff;
+    color: #4673eb;
 }
 body .gist .pl-cos,
 body .gist .pl-ml,
