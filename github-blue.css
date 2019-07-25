@@ -14,23 +14,23 @@ body .gist .pl-mr,
 body .gist .pl-ms,
 body .gist .pl-s3,
 body .gist .pl-sok {
-    color: #008cff;
+    color: #565B73;
 }
 body .gist .pl-cce {
-    color: #008cff;
+    color: #565B73;
 }
 body .gist .pl-cn {
-    color: #008cff;
+    color: #565B73;
 }
 body .gist .pl-enti {
-    color: #28c298;
+    color: #565B73;
     font-weight: 700;
 }
 body .gist .pl-sra {
-    color: #28c298;
+    color: #565B73;
 }
 body .gist .pl-mdr {
-    color: #28c298;
+    color: #565B73;
     font-weight: 400;
 }
 body .gist .pl-ms1 {
@@ -39,13 +39,13 @@ body .gist .pl-ms1 {
 body .gist .pl-c,
 body .gist .pl-c span,
 body .gist .pl-pdc {
-    color: #28c298;
+    color: #8c5bd8;
     font-style: italic;
 }
 body .gist .pl-c1,
 body .gist .pl-st,
 body .gist .pl-vo {
-    color: #28c298;
+    color: #8c5bd8;
 }
 body .gist .pl-coc,
 body .gist .pl-en,
@@ -73,12 +73,12 @@ body .gist .pl-mri,
 body .gist .pl-va,
 body .gist .pl-vpu,
 body .gist .highlight-text-tex .pl-s3 {
-    color: #36d576;
+    color: #008cff;
 }
 body .gist .pl-cos,
 body .gist .pl-ml,
 body .gist .pl-sol {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-ef,
 body .gist .pl-enf,
@@ -94,67 +94,67 @@ body .gist .pl-pdv,
 body .gist .pl-smc,
 body .gist .pl-som,
 body .gist .pl-sr {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-ent,
 body .gist .highlight-text-html-basic .pl-e {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-mb,
 body .gist .pl-pdb {
-    color: #36d576;
+    color: #565B73;
     font-weight: 700;
 }
 body .gist .pl-mi,
 body .gist .pl-pdi {
-    color: #36d576;
+    color: #565B73;
     font-style: italic;
 }
 body .gist .pl-pdc1,
 body .gist .pl-scp {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-pds,
 body .gist .pl-s1,
 body .gist .highlight-source-css .pl-v {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-s2,
 body .gist .pl-stj {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-sf,
 body .gist .pl-smi,
 body .gist .pl-smp,
 body .gist .pl-mo,
 body .gist .pl-entl {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-src,
 body .gist .pl-sre {
-    color: #36d576;
+    color: #565B73;
 }
 body .gist .pl-mi1,
 body .gist .pl-mdht {
-    color: #36d576;
+    color: #565B73;
     background: rgba(0, 64, 0, .5);
 }
 body .gist .pl-md,
 body .gist .pl-mdhf {
-    color: #36d576;
+    color: #565B73;
     background: rgba(64, 0, 0, .5);
 }
 body .gist .pl-mdh,
 body .gist .pl-mdi {
-    color: #36d576;
+    color: #565B73;
     font-weight: 400;
 }
 body .gist .pl-ib,
 body .gist .pl-iu {
-    background: #36d576;
+    background: #565B73;
 }
 body .gist .pl-id,
 body .gist .pl-ii {
     background: #94979B;
-    color: #36d576;
+    color: #565B73;
 }
