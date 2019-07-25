@@ -48,7 +48,6 @@ body .gist .pl-vo {
     color: #8c5bd8;
 }
 body .gist .pl-coc,
-body .gist .pl-en,
 body .gist .pl-enc,
 body .gist .pl-ens,
 body .gist .pl-k,
@@ -73,6 +72,9 @@ body .gist .pl-mri,
 body .gist .pl-va,
 body .gist .pl-vpu,
 body .gist .highlight-text-tex .pl-s3 {
+    color: #008cff;
+}
+body .gist .pl-en {
     color: #1bb0ba;
 }
 body .gist .pl-cos,
