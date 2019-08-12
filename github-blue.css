@@ -6,11 +6,7 @@ pre {
     tab-size: 4;
   }
 body .gist .blob-num,
-<<<<<<< HEAD
-=======
 body .gist .blob-code-inner,
-body .gist .pl-e,
->>>>>>> parent of aa79a8a... Update github-blue.css
 body .gist .pl-eoa,
 body .gist .pl-eoai,
 body .gist .pl-eoai .pl-pde,
@@ -23,15 +19,9 @@ body .gist .pl-s3,
 body .gist .pl-sok {
     color: #565B73;
 }
-<<<<<<< HEAD
-body .gist .blob-code-inner {
-    color: #94979B;
-}
 body .gist .pl-e {
     color: #3c74d0;
 }
-=======
->>>>>>> parent of aa79a8a... Update github-blue.css
 body .gist .pl-cce {
     color: #565B73;
 }
@@ -116,7 +106,7 @@ body .gist .pl-sr {
 }
 body .gist .pl-ent,
 body .gist .highlight-text-html-basic .pl-e {
-    color: #565B73;
+    color: #795da2;
 }
 body .gist .pl-mb,
 body .gist .pl-pdb {
