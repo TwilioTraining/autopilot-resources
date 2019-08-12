@@ -7,7 +7,6 @@ pre {
   }
 body .gist .blob-num,
 body .gist .blob-code-inner,
-body .gist .pl-e,
 body .gist .pl-eoa,
 body .gist .pl-eoai,
 body .gist .pl-eoai .pl-pde,
@@ -19,6 +18,9 @@ body .gist .pl-ms,
 body .gist .pl-s3,
 body .gist .pl-sok {
     color: #565B73;
+}
+body .gist .pl-e {
+    color: #3c74d0;
 }
 body .gist .pl-cce {
     color: #565B73;
@@ -104,7 +106,7 @@ body .gist .pl-sr {
 }
 body .gist .pl-ent,
 body .gist .highlight-text-html-basic .pl-e {
-    color: #565B73;
+    color: #795da2;
 }
 body .gist .pl-mb,
 body .gist .pl-pdb {
