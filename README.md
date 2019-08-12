@@ -1,2 +1,2 @@
-# autopilot-resources
-Resources for the Autopilot self-paced training
+# rise-resources
+Resources for Twilio self-paced trainings
