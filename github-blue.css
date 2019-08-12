@@ -6,7 +6,6 @@ pre {
     tab-size: 4;
   }
 body .gist .blob-num,
-body .gist .blob-code-inner,
 body .gist .pl-eoa,
 body .gist .pl-eoai,
 body .gist .pl-eoai .pl-pde,
@@ -18,6 +17,9 @@ body .gist .pl-ms,
 body .gist .pl-s3,
 body .gist .pl-sok {
     color: #565B73;
+}
+body .gist .blob-code-inner {
+    color: #94979B;
 }
 body .gist .pl-e {
     color: #3c74d0;
